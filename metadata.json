@@ -1,0 +1,6 @@
+{
+  "name": "ملحمة العقيد - Al-Aqeed Butchery Jordan",
+  "description": "متجر وملحمة العقيد الإلكتروني في الأردن لعرض وطلب أجود اللحوم البلدية، الذبائح الطازجة، بوكسات الشواء، والمنتجات المتبلة مع خيارات التقطيع والتوصيل المبرد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
